@@ -1,0 +1,2 @@
+SQL Data visualization: SQLite VS-Code extension
+Modules (in Python): Streamlit, BCrypt, SQLite3, Pandas
