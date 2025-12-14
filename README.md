@@ -9,9 +9,6 @@ This application is the culmination project for **Weeks 7–11**, integrating au
   * **Cybersecurity:** Logging and analysis.
   * **Data Science:** Tracking and dataset management.
   * **IT Operations:** Ticket management and system status.
-
-Each role is equipped with a **Context-Aware AI Assistant** that can answer questions based on live data from the database.
-
 -----
 
 ## Features
